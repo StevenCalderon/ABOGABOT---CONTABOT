@@ -59,6 +59,6 @@ Una pequeña muestra de lo que se puede ver en el [PDF](/pdf/contabot_requerimie
 ## Buyer persona
 Es un perfil ficticio de la persona ideal para el negocio en este caso ContaBot, el buyer persona seria una persona que tenga todas las características para que tenga la necesidad o quiera usar los servicios de ContaBot.
 
-![buyer persona](/images/buyer_persona.png)
+![buyer persona](/images/buyer_persona.PNG)
 
 [Click aqui para ver PDF](/pdf/buyer_persona.pdf)
