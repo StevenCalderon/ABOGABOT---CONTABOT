@@ -49,16 +49,16 @@ esto lo harán a través de una página web llenando un formulario.
 Una pequeña muestra de lo que se puede ver en el [PDF](/pdf/contabot_requerimientos.pdf)
 
 ### Diagrama de Flujo de la Aplicación (https://app.diagrams.net/)
-![flowchart contabor](/images/flowchart_contabot.jpg)
+![flowchart contabor](/images/flowchart_contabot.png)
 
 ### Historia de usuario 
-![user history](/images/user_history.jpg)
+![user history](/images/user_history.png)
 
 [Click aqui para ver PDF](/pdf/contabot_requerimientos.pdf)
 
 ## Buyer persona
 Es un perfil ficticio de la persona ideal para el negocio en este caso ContaBot, el buyer persona seria una persona que tenga todas las características para que tenga la necesidad o quiera usar los servicios de ContaBot.
 
-![buyer persona](/images/buyer_persona.jpg)
+![buyer persona](/images/buyer_persona.png)
 
 [Click aqui para ver PDF](/pdf/buyer_persona.pdf)
